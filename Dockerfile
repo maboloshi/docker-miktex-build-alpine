@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-LABEL Description="MiKTeX build environment, Alpine Linux latest" Vendor="Christian Schenk" Version="2.9.6972"
+LABEL Description="MiKTeX build environment, Alpine Linux latest" Vendor="Christian Schenk" Version="2.9.7300"
 
 RUN    apk update \
     && apk add \
