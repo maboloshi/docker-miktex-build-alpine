@@ -11,6 +11,7 @@ RUN    apk update \
            cmake \
            curl \
            dpkg-dev \
+           file \
            flex \
            g++ \
            gcc \
