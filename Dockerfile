@@ -31,6 +31,7 @@ RUN    apk update \
            potrace-dev \
            openssl-dev \
            uriparser-dev \
+           zziplib-dev \
            make \
            xz-dev
 
