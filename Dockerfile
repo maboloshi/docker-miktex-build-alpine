@@ -34,6 +34,7 @@ RUN    apk update \
            uriparser-dev \
            zziplib-dev \
            make \
+           libxslt \
            xz-dev
 
 RUN mkdir /miktex
